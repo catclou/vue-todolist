@@ -1,0 +1,11 @@
+.bg-custom {
+    background-color: rgb(196, 218, 212);
+}
+
+.done {
+    text-decoration: line-through;
+}
+
+p {
+    margin-bottom: 0!important;
+}
